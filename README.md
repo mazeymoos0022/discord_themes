@@ -1,6 +1,6 @@
 These files are for use on BetterDiscord or Vencord.
 PC ONLY!
-To install these themes
+To install these themes:
 
 1. Download and run either [BetterDiscord](https://betterdiscord.app/) or [Vencord](https://vencord.dev/).
 2. Download any file that has the .theme.css extension, save to any file (the trans.css and core.css files are to aid these .theme.css files)
