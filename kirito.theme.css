@@ -1,0 +1,38 @@
+/**
+ * @name Kirito
+ * @author MazeyMoos0022
+ * @version 1
+ * @description A theme with Kirito and Deathgun fighting in GGO (Gun Gale Online)
+ * @source https://www.mazeymoos.com/
+ */
+
+@import url('https://raw.githubusercontent.com/mazeymoos0022/themes_for/main/transparent.css');
+@import url('https://raw.githubusercontent.com/mazeymoos0022/discord_themes/main/core.css');
+
+:root{
+    --background: url('https://images.alphacoders.com/632/632525.png');
+    --activetext-colour: white;
+
+    --primary1-colour: red;
+    --primary2-colour: rgba(255,0,0,0.5);
+    --primary3-colour: rgba(100,0,0,0.6);
+
+    --secondary1-colour: rgba(50,50,50,0.3);
+    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary3-colour: rgba(0,0,0,0.5);
+
+    --transparency-1: linear-gradient(to right, rgba(255,0,0,0.3), rgba(0,0,255,0.3));
+    --transparency-2: linear-gradient(to right, rgba(255,0,0,0.3), rgba(0,0,255,0.3));
+    --transparency-3: linear-gradient(to right, rgba(255,0,0,0.3), rgba(0,0,255,0.3));
+    --transparency-4: linear-gradient(to right, rgba(255,0,0,0.3), rgba(0,0,255,0.3));
+    --transparency-5: linear-gradient(to right, rgba(255,0,0,0.3), rgba(0,0,255,0.3));
+}
+  
+/*
+Theme Owned and Made by MazeyMoos0022
+  
+Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+Transparency2 Module: https://raw.githubusercontent.com/mazeymoos0022/discord_themes/main/trans.css
+
+The top item is not owned by me. 
+*/
