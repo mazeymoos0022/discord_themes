@@ -6,8 +6,8 @@
  * @source https://www.mazeymoos.com/
  */
 
-@import url('https://raw.githubusercontent.com/mazeymoos0022/discord_themes/main/trans.css');
-@import url('https://raw.githubusercontent.com/mazeymoos0022/discord_themes/main/core.css');
+@import url('https://raw.githubusercontent.com/mazeymoos0022/discord_themes/main/data/trans.css');
+@import url('https://raw.githubusercontent.com/mazeymoos0022/discord_themes/main/data/core.css');
 
 :root{
     --background: url('https://images.alphacoders.com/632/632525.png');
